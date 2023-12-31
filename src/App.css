@@ -45,6 +45,7 @@ h1 {
   margin-bottom: 2rem;
   width: 300px;
   color: #fff;
+  border-radius: 5px; /* Add rounded corners */
 }
 
 .todo-input::placeholder {
